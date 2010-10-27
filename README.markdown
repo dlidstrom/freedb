@@ -6,7 +6,7 @@ This is an exploration into multi threaded techniques using C# and C++.
 
 FreeDB is an online database with CD information. You can download large
 text archives and this is the sole reason I chose FreeDB. For testing I
-have use an update archive (which is of reasonable size). You can find them
+have used an update archive (which is of reasonable size). You can find them
 [here](http://ftp.freedb.org/pub/freedb). The one I used was
 [freedb-update-20080201-20080301.tar.bz2](http://ftp.freedb.org/pub/freedb/freedb-update-20080201-20080301.tar.bz2).
 
